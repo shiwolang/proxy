@@ -6,10 +6,10 @@
  * Time: 16:00
  */
 
-namespace shiwolang\proxy;
+namespace shiwolang\event;
 
 
-class ProxyException extends \Exception
+class EventException extends \Exception
 {
 
 }
